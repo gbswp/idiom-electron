@@ -1,0 +1,24 @@
+{
+    "name": "idiom-electron",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^7.1.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gbswp/idiom-electron.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gbswp/idiom-electron/issues"
+    },
+    "homepage": "https://github.com/gbswp/idiom-electron#readme"
+}
